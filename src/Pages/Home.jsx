@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../Components/Header'
+import Paring from '../Components/Paring'
 
 function Home() {
   return (
@@ -26,6 +27,7 @@ function Home() {
 		</div>
 	</div>
 </section>
+
 
     </div>
   )
