@@ -27,6 +27,7 @@ function Home() {
 		</div>
 	</div>
 </section>
+<Paring/>
 
 
     </div>
