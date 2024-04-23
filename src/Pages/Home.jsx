@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header'
 import Paring from '../Components/Paring'
+import Meme from '../Components/Meme'
 
 function Home() {
   return (
@@ -27,6 +28,7 @@ function Home() {
 		</div>
 	</div>
 </section>
+<Meme />
 <Paring/>
 
 
